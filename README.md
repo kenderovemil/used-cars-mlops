@@ -280,7 +280,7 @@ The dealership has hired you as an MLOps Engineer to design and implement an MLO
 
 ## 🔗 Links
 
-- [AzureML Studio Pipeline Run](https://ml.azure.com/...)  
+- [AzureML Studio Pipeline Run](https://ml.azure.com/home?tid=3f211132-3351-46c8-ba33-39c5bcff66b3)  
 - [GitHub Actions Workflow](https://github.com/kenleeeen/used-cars-mlops/actions)
 
 ---
