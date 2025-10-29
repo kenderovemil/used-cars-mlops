@@ -75,3 +75,84 @@ The dealership has hired you as an MLOps Engineer to design and implement an MLO
 
 ## 📂 Folder Structure
 
+used-cars-mlops/ 
+├── src/ │ 
+├── prepare.py │ 
+├── train_model.py │ 
+└── model_register.py 
+├── outputs/ │ 
+├── train/train.csv │ 
+├── test/test.csv │
+└── prep_diagnostics.json
+├── pipelines/ │ 
+└── pipeline_definition.py 
+├── .github/ │ 
+└── workflows/azureml_pipeline.yml 
+├── data/ │ 
+└── used_cars.csv 
+└── README.md
+
+
+---
+
+## 📸 Screenshots
+
+- ✅ AzureML pipeline execution  
+- ✅ GitHub Actions workflow run  
+- ✅ Sample outputs and diagnostics
+
+---
+
+## 🔗 Links
+
+- [AzureML Studio Pipeline Run](https://ml.azure.com/...)  
+- [GitHub Actions Workflow](https://github.com/kenleeeen/used-cars-mlops/actions)
+
+---
+
+## 📈 Business Impact
+
+- Improved pricing accuracy  
+- Faster updates and scalability  
+- Increased customer trust and profitability
+
+---
+
+## 🧠 Author
+
+**Emil Kenderov** — AI student
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
